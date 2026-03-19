@@ -1,0 +1,10 @@
+streamlit
+xgboost
+scikit-learn
+spacy
+fuzzywuzzy
+distance
+beautifulsoup4
+scipy
+pandas
+numpy
